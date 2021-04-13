@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpanishCardsDeck", "SpanishCardsDeck\SpanishCardsDeck.csproj", "{10166765-C4A4-4FEA-9FEA-154474D433EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpanishCardsDeck.Test", "SpanishCardsDeck.Test\SpanishCardsDeck.Test.csproj", "{A8DF994A-C043-4305-B6FE-4251BA4A17C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10166765-C4A4-4FEA-9FEA-154474D433EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10166765-C4A4-4FEA-9FEA-154474D433EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10166765-C4A4-4FEA-9FEA-154474D433EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10166765-C4A4-4FEA-9FEA-154474D433EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DF994A-C043-4305-B6FE-4251BA4A17C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DF994A-C043-4305-B6FE-4251BA4A17C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DF994A-C043-4305-B6FE-4251BA4A17C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DF994A-C043-4305-B6FE-4251BA4A17C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59115B8B-424D-4A91-BCE5-C1141E5860E3}
+	EndGlobalSection
+EndGlobal
