@@ -1,6 +1,7 @@
 # Spanish Playing Card Exercise in C#
 ```
 Write a program that create a deck of cards using the previous classes and execute
+Create class SpanishPlayingCard with number (1-12) and sign (“Oros/Golden”,”Copas/Cups”,”Espadas/Swords”, “Bastos/Sticks”)
 * Show the deck of cards
 * Mix the deck of cards
 * Show after it the deck of cards
